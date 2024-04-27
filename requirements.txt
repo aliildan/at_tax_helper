@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+chromadb
+langchain-text-splitters
+unstructured[all-docs]
+text2vec
+flask
