@@ -3,8 +3,9 @@
 
 ## Introduction
 Welcome to **at_tax_helper**. This repository is a simple project demonstrating the basics of using LangChain, Ollama, Chroma, and Llama3 to interact with PDF documents containing Austrian tax guidelines.
-
-## Project Description
+Please check out LangChain's offical documentation for more information: 
+[here](https://python.langchain.com/docs/get_started/introduction)
+## Project Description)
 This project utilizes LangChain to create a dialogue system for interacting with PDF files, specifically tax guides from AK and Finanzamt. The guides are indexed using Chroma with Ollama embeddings for efficient querying. It's a basic implementation, meant to introduce the possibilities of LangChain and is ready for further development and more complex integrations.
 
 ## Key Technologies
