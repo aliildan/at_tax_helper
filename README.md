@@ -23,17 +23,17 @@ This project runs on Python versions 3.8 to 3.11. Ensure you have Python install
    cd at_tax_helper
 
 
-2. **Install dependencies:**:
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
 
-3. **Install Ollama and run LLAMA3:**:
+3. **Install Ollama and run LLAMA3:**
    
    [ollama](https://ollama.com/library/llama3)
    ```bash
    ollama run llama3
 
-4. **Usage:** :
+4. **Usage:** 
 
       - `/plaground/import_pdfs.py` : Indexes the pdfs
       - `/playground/prmpt_pdf.py`  : A basic terminal to use LLM with prompts.
