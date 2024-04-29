@@ -27,7 +27,13 @@ This project runs on Python versions 3.8 to 3.11. Ensure you have Python install
    ```bash
    pip install -r requirements.txt
 
-3. **Usage:** :
+3. **Install Ollama and run LLAMA3:**:
+   
+   [ollama](https://ollama.com/library/llama3)
+   ```bash
+   ollama run llama3
+
+4. **Usage:** :
 
       - `/plaground/import_pdfs.py` : Indexes the pdfs
       - `/playground/prmpt_pdf.py`  : A basic terminal to use LLM with prompts.
